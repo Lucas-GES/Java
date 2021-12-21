@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Horista
+comment1.params=nome
+comment1.target=Horista(java.lang.String)
+comment2.params=
+comment2.target=double\ getHorasTrabalhadas()
+comment3.params=horas
+comment3.target=void\ setHorasTrabalha(double)
+comment4.params=
+comment4.target=double\ getGanhoMensal()
+numComments=5

@@ -1,0 +1,1 @@
+No método insert da classe Vector, implemente a inserção na lista estática (array), onde o tamanho do vetor sempre dobra de tamanho quando não existe elemento disponível para inserção de valor.

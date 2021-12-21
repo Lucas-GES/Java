@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Controle
+comment1.params=funcionario
+comment1.target=void\ addFuncionario(br.edu.unifil.lp1.abstrato.modelo.Funcionario)
+comment2.params=
+comment2.target=java.lang.String\ getFuncionario()
+numComments=3

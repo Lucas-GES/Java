@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrayInt
+comment1.params=tamanho
+comment1.target=ArrayInt(int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ ArrayInt\r\n
+comment2.params=
+comment2.target=void\ addArray()
+comment3.params=
+comment3.target=java.lang.String\ getArray()
+comment4.params=indice\ valor
+comment4.target=void\ setElemento(int,\ int)
+comment5.params=
+comment5.target=void\ setOrdenar()
+numComments=6

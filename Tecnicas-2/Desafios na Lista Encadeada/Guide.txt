@@ -1,0 +1,23 @@
+Neste DESAFIO vocês deverão realizar as seguintes alterações:
+1) Na classe ListaSimples, modifique o método remover() para resolver os problemas (bugs) abaixo:
+a) quando é passado como parâmetro um valor que não existe na lista, o método está removendo o último nó.
+b) ao remover um valor qualquer com a lista vazia está ocorrendo nullPointer.
+
+2) Na classe ListaSimples, crie o método get(int posicao) para retornar o valor armazenado.
+Exemplo considerando a lista [4 99 5 10], posicao = 1, retornar valor = 4; posicao = 3, retornar valor = 5, se a posicao
+não existir retorne -1.
+
+3) Na classe ListaDupla, modifique o método remover() para resolver os problemas (bugs) abaixo:
+a) corrigir quando é excluído o ultimo nó (null pointer).
+b) corrigir o anterior de quando é excluído o primeiro elemento ex [22 4].
+c) corrigir o null pointer de quando é solicitado a exclusão de um valor que não existe.
+d) ao remover um valor com a lista vazia está ocorrendo erro de null pointer.
+
+4) Na classe ListaDupla, crie o método get(int posicao) para retornar o valor armazenado.
+Exemplo considerando a lista [4 99 5 10 2 63 14 71], posicao = 3, retornar valor = 5; posicao = 7, retornar valor = 14,
+se a posicao não existir retorne -1. Implemente o método de busca abaixo:
+## Para termos uma performance melhor neste método, quando a posição passado como parâmetro for superior à
+metade dos nós existentes na lista, faça a busca a partir do último nó em direção aos nós anteriores.
+## Quando a posição passado como parâmetro for inferior ou igual à metade dos nós existentes na lista, faça a
+busca a partir do primeiro nó em direção aos nós próximos.
+Observe que a lista duplamente encadeada possibilita uma busca do último nó sentido primeiro nó.

@@ -1,0 +1,13 @@
+1) Na classe Util crie o método estático pesquisaBinaria
+public static boolean pesquisaBinaria (int a[ ], int ch)
+
+Implemente a busca binária neste método
+Parâmetros: array do tipo inteiro e valor de pesquisa
+Retorne: true se achou o valor de pesquisa no array
+Retorne: false, se não encontrou o valor pesquisado
+
+2) Crie uma classe para testar o método pesquisaBinaria crie um array com valores inteiros e faça entrada de dados
+para informar o valor de pesquisa Mostre se o número pesquisado existe ou não no array.
+
+Obs: Não esqueça de ordenar o array para realizar a busca binária Obrigatório utilizar o método de ordenação da
+bolha aprendido na aula anterior Método ordena da classe Util.

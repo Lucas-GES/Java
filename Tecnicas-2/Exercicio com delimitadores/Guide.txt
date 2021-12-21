@@ -1,0 +1,9 @@
+Crie uma classe para validar os delimitadores informados em uma entrada de dados. Os delimitadores considerados são as chaves { e }, os colchetes [ e ] e os parênteses ( e ). Cada delimitador de abertura deve ter um delimitador de fechamento. Além disso, delimitadores de abertura que ocorrem depois na cadeia devem ser fechados antes daqueles que ocorrem primeiro. Na solução do problema informe que há erro nos delimitadores ou se está correto.
+Exemplos
+int c [ ] = new int[10]; correto
+if(a  b) { c [1 ] = 5; } correto
+if(a  b) { c (1 ] = 5;  incorreto; ] não casa com (
+if(a  b) c [1 ] = 5  ( b + a ); }  incorreto; nada casa com }
+if(a  b) { c [1 ] = 5  ( b + a );  incorreto; nada casa com {
+
+Crie a classe no mesmo projeto da classe Pilha e TestePilha.

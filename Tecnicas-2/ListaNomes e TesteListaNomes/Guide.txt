@@ -1,0 +1,3 @@
+Na classe ListaNomes, implemente o construtor e os métodos addLista, getLista e getMaiorNome conforme orientações descritas em comentário na classe.
+
+Na classe TesteListaNomes, faça o teste dos métodos da classe ListaNomes.

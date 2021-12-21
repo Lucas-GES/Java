@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=UsaArrayInt
+comment1.params=
+comment1.target=UsaArrayInt()
+comment2.params=arr
+comment2.target=void\ carregaArray(int[])
+comment3.params=arr
+comment3.target=java.lang.String\ mostraArray(int[])
+comment4.params=arr\ indice
+comment4.target=int\ mostraArray(int[],\ int)
+comment5.params=arrA\ arrB
+comment5.target=int[]\ geraArrayDivisao(int[],\ int[])
+comment6.params=arrA\ arrB
+comment6.target=int[]\ geraArrayInter(int[],\ int[])
+comment7.params=arrA\ arrB
+comment7.target=int[]\ geraArrayDif(int[],\ int[])
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bateria
+comment1.params=
+comment1.target=int[]\ getEventos()
+comment2.params=eventos
+comment2.target=int\ getBattery(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

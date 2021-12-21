@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=fib
+comment1.target=int\ exercicio1(int)
+comment10.params=palavras
+comment10.target=java.lang.String\ exercicio5a(java.util.ArrayList)
+comment11.params=
+comment11.target=java.lang.String\ exercicio5b()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=fib
+comment2.target=int\ exercicio2a(int[])
+comment3.params=fib2
+comment3.target=int\ exercicio2b(int[])
+comment4.params=s\ c
+comment4.target=java.lang.String\ exercicio3a(java.lang.String,\ java.lang.String)
+comment5.params=s\ c
+comment5.target=java.lang.String\ exercicio3b(java.lang.String,\ java.lang.String)
+comment6.params=s\ c
+comment6.target=java.lang.String\ exercicio3c(java.lang.String,\ java.lang.String)
+comment7.params=s\ c
+comment7.target=java.lang.String\ exercicio3d(java.lang.String,\ java.lang.String)
+comment8.params=palavra
+comment8.target=java.lang.String\ exercicio4a(java.lang.String)
+comment9.params=palavra
+comment9.target=java.lang.String\ exercicio4b(java.lang.String)
+numComments=13

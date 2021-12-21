@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Empregado
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Empregado\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=nome\ salario
+comment1.target=Empregado(java.lang.String,\ double)
+comment2.params=
+comment2.target=Empregado()
+comment3.params=
+comment3.target=void\ setId()
+comment4.params=
+comment4.target=int\ getProximoId()
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=
+comment6.target=double\ getSalario()
+comment7.params=nome
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=salario
+comment8.target=void\ setSalario(double)
+numComments=9
