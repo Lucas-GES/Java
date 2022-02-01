@@ -1,0 +1,37 @@
+Project documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+-sourcepath
+/home/luck/Área de Trabalho/Greenfoot/Cards
+-source
+11
+-classpath
+/home/luck/greenfoot/lib/extensions/greenfoot.jar:/home/luck/greenfoot/lib/bluejcore.jar:/home/luck/greenfoot/lib/bluejeditor.jar:/home/luck/greenfoot/lib/bluejext.jar:/home/luck/greenfoot/lib/junit-4.11.jar:/home/luck/greenfoot/lib/hamcrest-core-1.3.jar:/home/luck/greenfoot/lib/bluej.jar:/home/luck/greenfoot/lib/classgraph-4.2.6.jar:/home/luck/greenfoot/lib/diffutils-1.2.1.jar:/home/luck/greenfoot/lib/commons-logging-api-1.1.2.jar:/home/luck/greenfoot/lib/jl1.0.1.jar:/home/luck/greenfoot/lib/opencsv-2.3.jar:/home/luck/greenfoot/lib/xom-1.2.9.jar:/home/luck/greenfoot/lib/lang-stride.jar:/home/luck/greenfoot/lib/nsmenufx-2.1.4.jar:/home/luck/greenfoot/lib/richtextfx-fat-0.9.0.jar:/home/luck/greenfoot/lib/guava-17.0.jar:/home/luck/greenfoot/lib/httpclient-4.1.1.jar:/home/luck/greenfoot/lib/httpcore-4.1.jar:/home/luck/greenfoot/lib/httpmime-4.1.1.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.base.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.controls.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.media.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.properties.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.swing.jar:/usr/lib/jvm/javafx-sdk-11.0.2/lib/javafx.web.jar:/home/luck/Área de Trabalho/Greenfoot/Cards
+-d
+/home/luck/Área de Trabalho/Greenfoot/Cards/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Cards
+-windowtitle
+Cards
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+/home/luck/Área de Trabalho/Greenfoot/Cards/BubbleSort.java
+/home/luck/Área de Trabalho/Greenfoot/Cards/embaralhar.java
+/home/luck/Área de Trabalho/Greenfoot/Cards/MyWorld.java
+<---- end of javadoc command ---->
+Loading source file /home/luck/Área de Trabalho/Greenfoot/Cards/BubbleSort.java...
+Loading source file /home/luck/Área de Trabalho/Greenfoot/Cards/embaralhar.java...
+/home/luck/Área de Trabalho/Greenfoot/Cards/embaralhar.java:31: error: <identifier> expected
+    public void exibirCartas(Cards){
+                                  ^
+Loading source file /home/luck/Área de Trabalho/Greenfoot/Cards/MyWorld.java...
+1 error

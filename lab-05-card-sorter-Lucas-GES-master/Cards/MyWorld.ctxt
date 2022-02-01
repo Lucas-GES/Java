@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ criarCartas()
+comment3.params=cards
+comment3.target=void\ exibirCartas(Cards[])
+comment4.params=
+comment4.target=void\ remover()
+comment5.params=
+comment5.target=void\ criarBotoes()
+comment6.params=delay
+comment6.target=void\ atualizaCards(int)
+comment7.params=card
+comment7.target=Cards\ aumenta(Cards)
+comment8.params=card
+comment8.target=Cards\ medio(Cards)
+comment9.params=card
+comment9.target=Cards\ normal(Cards)
+numComments=10

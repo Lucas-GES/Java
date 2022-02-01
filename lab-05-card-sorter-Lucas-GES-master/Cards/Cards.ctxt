@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cards
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cards\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=scale\ _value
+comment2.target=Cards(double,\ int)
+numComments=3
